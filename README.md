@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Instructions
 
 This rails app is meant to help people get a feel for basic static pages.  The
@@ -75,6 +74,3 @@ Google is also your best friend.  Also there is a few questions on the form to a
   git commit -am "Routing"
   ```
   Create a new repository in your Github account called hw1-sp15.  Follow the instructions on how to push up an existing repository then fill out this google doc https://docs.google.com/forms/d/1LWMH3GMYa7ZI4O8_U83pxzLO769TcSCZYrFw7JCSAdY/viewform?usp=send_form
-=======
-# hw1-sp15
->>>>>>> f9fe7d70c8f2139c0021547d3c74a8cfaa100ba4
